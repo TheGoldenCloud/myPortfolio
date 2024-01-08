@@ -49,7 +49,7 @@
 <img src="./src/Assets/readmeImg.jpeg" alt="appImg" width="800" height="500">
 
 Below is personalized project dedicated to showcase and highlight my skills and history employment in my professional journey.  
-To view live preview, you can click <a href = "https:/thegoldencloud.github.io/myPortfolio/">here!</a>
+To view live preview, you can click <a href = "#https:/thegoldencloud.github.io/myPortfolio/">here!</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
