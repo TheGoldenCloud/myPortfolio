@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TheGoldenCloud/myPortfolio">
-    <img src="./birthdayReminder/public/birthday-cake-svgrepo-com.svg" alt="Logo" width="80" height="80">
+    <img src="./src/Assets/portfolio-svgrepo-com.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">My portfolio</h3>
@@ -46,7 +46,7 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <!-- <img src="/public/app.png" alt="appImg" width="300" height="500"> -->
-<img src="./src/Assets/readmeImg.jpeg" alt="appImg" width="300" height="500">
+<img src="./src/Assets/readmeImg.jpeg" alt="appImg" width="800" height="500">
 
 Below is personalized project dedicated to showcase and highlight my skills and history employment in my professional journey.  
 
@@ -93,7 +93,7 @@ This is an example of how to list things you need to use the software and how to
 
 5. Get into front
    ```sh
-   cd birthdayReminder
+   cd myPortfolio
 
 6. Install NPM packages
    ```sh
